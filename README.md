@@ -1,6 +1,6 @@
 # Hi, I'm Anas Adel Eltohamy 
 
-**.NET Developer** based in Cairo, Egypt. I build RESTful APIs and MVC web applications with ASP.NET Core, EF Core, and SQL Server, following Clean Architecture.
+***.NET Developer** based in Cairo, Egypt. I build RESTful APIs and MVC web applications with ASP.NET Core, EF Core, and SQL Server, following Clean Architecture.
 
 ## What I do
 
