@@ -37,10 +37,11 @@ A RESTful e-commerce backend built with ASP.NET Core 8 and Onion Architecture, i
 A CRUD web application built with ASP.NET Core MVC and Identity to search people by National ID and view their parents' details and images. I led a team of 7 and owned the backend development, from database design to the application layers.
  
 ### [Portfolio](https://portfolio.anas-website.workers.dev/)
- 
+
 <a href="https://portfolio.anas-website.workers.dev/">
   <img src="images/portfolio.png" alt="Anas Eltohamy portfolio" width="700">
 </a>
+
 My personal portfolio website: [portfolio.anas-website.workers.dev](https://portfolio.anas-website.workers.dev)
  
 ## Education
