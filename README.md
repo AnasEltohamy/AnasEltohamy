@@ -27,6 +27,7 @@
 <a href="https://github.com/AnasEltohamy/Talabat-Platform">
   <img src="images/poster.png" alt="Talabat Platform" width="700">
 </a>
+
 A RESTful e-commerce backend built with ASP.NET Core 8 and Onion Architecture, integrated with an Angular storefront. It includes JWT authentication with Identity and roles, a filterable, sortable and paginated product catalog, a Redis-backed basket with response caching, an order workflow with delivery methods, and Stripe payments with a verified webhook that updates the order status.
  
 `ASP.NET Core 8` · `EF Core` · `SQL Server` · `Redis` · `Stripe` · `JWT`
