@@ -50,7 +50,7 @@ My personal portfolio website: [portfolio.anas-website.workers.dev](https://port
 - Full Stack .NET Diploma, Rout Academy, 2024
 ## Let's connect
  
-- LinkedIn: [anasadeleltohamy](https://www.linkedin.com/in/anasadeleltohamy/)
+- LinkedIn: [www.linkedin.com/in/anasadeleltohamy](https://www.linkedin.com/in/anasadeleltohamy/)
 - Email: anaseltohamy015@gmail.com
-- Portfolio: [portfolio.anas-website.workers.dev](https://portfolio.anas-website.workers.dev)
+- Portfolio: [www.portfolio.anas-website.workers.dev](https://portfolio.anas-website.workers.dev)
  
